@@ -1,13 +1,17 @@
-.box {
-    width: 150px;
-    height: 150px;
-    border: 1px solid black;
-    display: inline-block;
-    margin: -2px;
-    font-size: 80px;
+body {
     text-align: center;
-}
-.black{
-    background-color: black;
-    color: white;
-}
+    margin: 80px;
+  }
+  .box {
+      width: 100px;
+      height: 100px;
+      border: 1px solid black;
+      display: inline-block;
+      margin: -2px;
+      font-size: 80px;
+      text-align: center;
+  }
+  .black {
+      background-color: black;
+      color: white;
+  }
